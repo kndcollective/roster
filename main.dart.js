@@ -43545,7 +43545,7 @@ Q.Oy.prototype={}
 F.D0.prototype={
 P:function(a){return new S.nc(new K.EN(null),X.I7(C.V,"GoogleSansRegular",C.r),!1,null)}}
 K.EN.prototype={
-y_:function(){return H.e([K.nl(C.dw,new K.EO(),"releases"),K.nl(C.dw,new K.EP(),"roster"),K.nl(C.dw,new K.EQ(),"contact us")],[N.ag])},
+y_:function(){return H.e([K.nl(C.dw,new K.EO(),"Home"),K.nl(C.dw,new K.EP(),"Releases"),K.nl(C.dw,new K.EQ(),"Contact Us")],[N.ag])},
 P:function(a){var u,t,s,r,q,p,o,n,m,l,k,j=null,i="CO-FOUNDER\nbio: s00n",h="Last Track",g=F.aM(a,!1).a.a
 if(typeof g!=="number")return g.H()
 if(g<800){g=this.y_()
@@ -43572,12 +43572,12 @@ if(typeof k!=="number")return k.p()
 q=B.lb(T.iT(H.e([new K.D7(s,j),new T.c4(j,r*0.1,j,j),new K.EH(p,j),new T.c4(j,o*0.1,j,j),new K.EK(n,j),new T.c4(j,m*0.1,j,j),new K.EI(l,j),new T.c4(j,k*0.2,j,j),new K.H8(j)],q),C.Q,C.au,C.E),j)
 return B.lb(new M.ld(new E.pR(0,C.r,new Q.af(1/0,56),j),new E.GP(!0,new G.ma(new V.aR(t,t,t,t),q,C.al,u,j),j),g,C.r,j),j)}}
 K.EO.prototype={
-$0:function(){C.O.eF(window,"http://www.knd.world","Home")},
+$0:function(){C.O.eF(window,"http://knd.world/","Home")},
 $C:"$0",
 $R:0,
 $S:0}
 K.EP.prototype={
-$0:function(){C.O.eF(window,"http://www.knd.world/releases","Releases")},
+$0:function(){C.O.eF(window,"http://www.knd.world/releases/","Releases")},
 $C:"$0",
 $R:0,
 $S:0}
